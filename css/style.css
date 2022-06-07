@@ -1,0 +1,60 @@
+
+		body{
+			margin: 0;
+		}
+		.goodman{
+			background: darkred;
+			text-align: center;
+			height: 50vh;
+			display: flex;
+			justify-content: center;
+			align-items: center;
+			background-image: url(../images/nature.jpg);
+			background-size: cover;
+			background-position: center;
+
+		}
+		.badman{
+			background: yellowgreen;
+			text-align: center;
+			height: 50vh;
+			display: flex;
+			justify-content: center;
+			align-items: center;
+			background-image: url(../images/bird.jpg);
+			background-size: cover;
+			background-position: center;
+		}
+		.goodgirl{
+			background: blueviolet;
+			text-align: center;
+			height: 50vh;
+			display: flex;
+			justify-content: center;
+			align-items: center;
+			background-image: url(../images/flower.jpg);
+			background-size: cover;
+			background-position: center;
+
+		}
+		.badgirl{
+			background: mistyrose;
+			text-align: center;
+			height: 50vh;
+			display: flex;
+			justify-content: center;
+			align-items: center;
+			background-image: url(../images/ocean.jpg);
+			background-size: cover;
+			background-position: center;
+
+		}
+		h1{
+			font-size: 50px;
+			color: whitesmoke;
+			margin: 0;
+		}
+		strong{
+			color: darkred;
+		}
+	</style>
